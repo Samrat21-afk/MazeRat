@@ -9,7 +9,7 @@ If you'd like to learn more about it, you can go to this [link]([url](https://ww
 link: https://www.youtube.com/watch?v=5NgNicANyqM&t=2443s
 
 ## Demo
-<img src ="maze1(solved).png" height:20px width:20px>
+<img src ="maze1(solved).png" style="height:20px; width:20px">
 ## Features
 
 - Supports mazes represented as 2D grids. 0 represents blank spaces and 1 represents walls.
