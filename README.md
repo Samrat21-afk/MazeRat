@@ -9,7 +9,10 @@ If you'd like to learn more about it, you can go to this [link]([url](https://ww
 link: https://www.youtube.com/watch?v=5NgNicANyqM&t=2443s
 
 ## Demo
+<figure>
+  <figcaption>This is the screenshot of solved maze1.txt</figcaption>
 <img src ="maze1(solved).png" style="height:200px; width:200px">
+</figure>
 ## Features
 
 - Supports mazes represented as 2D grids. 0 represents blank spaces and 1 represents walls.
