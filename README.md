@@ -6,9 +6,10 @@ Samrat's Maze Solver AI is a program designed to automatically find the solution
 It uses the Breadth first Search algorithm. So what happens in BFS (Breadth First Search) is it searches for the solution in last-in first-out procedure. We have a frontier where all the moves are stored. There is an object called node which has its own state, parent, and action. State is basically the address of the node. Parent is the address from where the node came from and action is the possible addressess where the node can go to. 
 I learned about this from CS50's Artificial Intelligence course on youtube. 
 If you'd like to learn more about it, you can go to this [link]([url](https://www.youtube.com/watch?v=5NgNicANyqM&t=2443s))
+link: https://www.youtube.com/watch?v=5NgNicANyqM&t=2443s
 
 ## Demo
-
+<img src ="maze1(solved).png>
 ## Features
 
 - Supports mazes represented as 2D grids. 0 represents blank spaces and 1 represents walls.
